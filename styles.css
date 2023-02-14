@@ -194,3 +194,42 @@ h2 {
   background-clip: content-box, padding-box;
   padding: 60px
 }
+
+/* For Poland */
+
+.white.twovert{
+  width: 100%;
+  height: 50%;
+  background-color: white;
+}
+
+.red.twovert{
+  width: 100%;
+  height: 50%;
+  background-color: #DC143C;
+}
+
+/* For Greece */
+
+.greece_blue{
+  width: 70%;
+  height: 11.11%;
+  background-color: #0D5EAF;
+}
+.greece_white{
+  width: 70%;
+  height: 11.11%;
+  background-color: white;
+  /* display: flex;
+  justify-content: flex-end; */
+}
+.greece-blue{
+  width: 100%;
+  height: 11.11%;
+  background-color: #0D5EAF;
+}
+.greece-white{
+  width: 100%;
+  height: 11.11%;
+  background-color: white;
+}
